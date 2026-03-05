@@ -1,12 +1,9 @@
-# Python Guess Game 🎮
+# JavaScript Mini Game 🎮
 
-這是我的第一個 GitHub 專案。
+這是一個簡單的打地鼠遊戲。
 
-## 遊戲介紹
-玩家需要猜出電腦隨機產生的數字。
+## 遊戲玩法
+點擊出現的地鼠即可得分。
 
-## 執行方式
-
-```bash
-python game.py
-
+## 開啟方式
+直接打開 game.html
